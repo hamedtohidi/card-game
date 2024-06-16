@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/card-game/static/css/main.d66dcf20.css",
-    "main.js": "/card-game/static/js/main.af677a7d.js",
+    "main.js": "/card-game/static/js/main.019247d8.js",
+    "static/media/cover.png": "/card-game/static/media/cover.645e5b466837ca8c7bb2.png",
     "static/media/shield-1.png": "/card-game/static/media/shield-1.ce8860624651400db5b1.png",
     "static/media/helmet-1.png": "/card-game/static/media/helmet-1.bae25ad915ed7fb2dbc3.png",
     "static/media/potion-1.png": "/card-game/static/media/potion-1.abdb5580516208ffd35d.png",
@@ -10,10 +11,10 @@
     "static/media/ring-1.png": "/card-game/static/media/ring-1.eef589005200084f6e1e.png",
     "index.html": "/card-game/index.html",
     "main.d66dcf20.css.map": "/card-game/static/css/main.d66dcf20.css.map",
-    "main.af677a7d.js.map": "/card-game/static/js/main.af677a7d.js.map"
+    "main.019247d8.js.map": "/card-game/static/js/main.019247d8.js.map"
   },
   "entrypoints": [
     "static/css/main.d66dcf20.css",
-    "static/js/main.af677a7d.js"
+    "static/js/main.019247d8.js"
   ]
 }
