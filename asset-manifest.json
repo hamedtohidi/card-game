@@ -1,13 +1,19 @@
 {
   "files": {
     "main.css": "/card-game/static/css/main.d66dcf20.css",
-    "main.js": "/card-game/static/js/main.b7381952.js",
+    "main.js": "/card-game/static/js/main.af677a7d.js",
+    "static/media/shield-1.png": "/card-game/static/media/shield-1.ce8860624651400db5b1.png",
+    "static/media/helmet-1.png": "/card-game/static/media/helmet-1.bae25ad915ed7fb2dbc3.png",
+    "static/media/potion-1.png": "/card-game/static/media/potion-1.abdb5580516208ffd35d.png",
+    "static/media/scroll-1.png": "/card-game/static/media/scroll-1.2590149f08921cf26659.png",
+    "static/media/sword-1.png": "/card-game/static/media/sword-1.960bfcd496fbeb1d7680.png",
+    "static/media/ring-1.png": "/card-game/static/media/ring-1.eef589005200084f6e1e.png",
     "index.html": "/card-game/index.html",
     "main.d66dcf20.css.map": "/card-game/static/css/main.d66dcf20.css.map",
-    "main.b7381952.js.map": "/card-game/static/js/main.b7381952.js.map"
+    "main.af677a7d.js.map": "/card-game/static/js/main.af677a7d.js.map"
   },
   "entrypoints": [
     "static/css/main.d66dcf20.css",
-    "static/js/main.b7381952.js"
+    "static/js/main.af677a7d.js"
   ]
 }
